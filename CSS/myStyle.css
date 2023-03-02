@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: 'Fira Code', monospace;
+    color: black;
+    background-color:#e6e2d3;
+    text-align: center;
+}
+h1{
+    margin: 30px;
+}
+
+#productTransaction{
+    display: inline-block;
+    width: auto 400px;
+    border: 2px solid black ;
+    box-shadow: 10px 5px 5px black;
+    
+}
+h2{
+    margin: 15px 15px 20px;
+    text-decoration: underline grey;
+}
+p{
+    margin: 15px;
+}
